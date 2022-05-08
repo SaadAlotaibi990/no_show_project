@@ -7,4 +7,4 @@ This dataset collects information from 100k medical appointments in Brazil and i
 ## About the project:
 The goal of this project is to investigate a dataset of appoinment records for Brasil public hospitals. The data includes some attributes of patients and state if the patients showed up to appointments. The analysis should be focused on finding trends influencing patients to show or not show up to appointments
 
-## This Project was part of Udacity's nanodegree program (Data Analyst Nanodegree)
+This Project was part of Udacity's nanodegree program (Data Analyst Nanodegree)
